@@ -55,3 +55,9 @@
 * GitHub: [@cartinez](http://github.com/cartinez)
 * LinkedIn: [Francesco Cartier](https://www.linkedin.com/in/francesco-cartier-47a9479a/)
 * DEV: [@cartinez](https://dev.to/cartinez)
+
+## Name: Elvira Luna Feng 
+* Place: Canada
+* Job: Student & Website Designer Co-op 
+* Github: [BlazeMidnight](https://github.com/BlazeMidnight)
+
